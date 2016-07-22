@@ -94,8 +94,8 @@ g++ -std=c++11 hello.cpp HelloState.cpp HelloChildState.cpp ByeState.cpp -o main
 
 ## Licence
 
-[MIT](https://github.com/hosi-mo/tool/blob/master/LICENCE)
+[MIT](https://github.com/hosi-mo/StateMachine/blob/master/LICENSE)
 
 ## Author
 
-[hosi-mo](http:://hosimo.net)
+[hosi-mo](http://hosimo.net/about)
